@@ -1,0 +1,84 @@
+/* 
+This CSS resource incorporates links to font software which is 
+the valuable copyrighted property of WebType LLC, The Font Bureau 
+and/or their suppliers. You may not attempt to copy, install, 
+redistribute, convert, modify or reverse engineer this font 
+software. Please contact WebType with any questions: www.webtype.com
+*/
+
+@import url("http://pls.webtype.com/v.css?ct=32976,32973,32974,32975,32993,32994,32991,32992,32995,32996,32987,32983,32988,32984,32989,32990,32981,32982,32985,32986,32978,32980,32979,32977&r=5653&p=4806&h=xA0fMFN%2bNagBoQ%2brj1oSgw%3d%3d");
+
+@font-face {
+ font-family: "Apres RE";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/57bc41aa-3a6d-4bdc-9c51-7460defa7938") format("truetype");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Apres RE";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/493efb56-b139-49fe-8ec1-4b34c555e9db") format("truetype");
+ font-style: normal;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Apres RE";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/d560e6d0-df18-4624-a711-b00637903eac") format("truetype");
+ font-style: italic;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Apres RE";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/faf99c4f-f000-4dfa-81bb-f686e2cfb93d") format("truetype");
+ font-style: italic;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Salvo Serif Cond";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/fb1acb64-e438-4ca1-8084-0f853a412555") format("truetype");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Salvo Serif Cond";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/e073195e-455c-4499-ba11-32c6960d6b29") format("truetype");
+ font-style: italic;
+ font-weight: normal;
+}
+/* License for "Salvo Serif Cond Light" has expired. */
+/* License for "Salvo Serif Cond Light Italic" has expired. */
+/* License for "Salvo Serif Cond Medium" has expired. */
+/* License for "Salvo Serif Cond Medium Italic" has expired. */
+/* License for "Salvo Serif Ex Cond Bold" has expired. */
+/* License for "Salvo Serif Ex Cond Regular" has expired. */
+/* License for "Salvo Serif Ex Cond Bold Italic" has expired. */
+/* License for "Salvo Serif Ex Cond Italic" has expired. */
+/* License for "Salvo Serif Ex Cond Black" has expired. */
+/* License for "Salvo Serif Ex Cond Black Italic" has expired. */
+/* License for "Salvo Serif Ex Cond Light" has expired. */
+/* License for "Salvo Serif Ex Cond Light Italic" has expired. */
+/* License for "Salvo Serif Ex Cond Medium" has expired. */
+/* License for "Salvo Serif Ex Cond Medium Italic" has expired. */
+@font-face {
+ font-family: "Turnip RE";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/be79cef0-f809-4c3f-aacd-b65b783fd8c7") format("truetype");
+ font-style: normal;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Turnip RE";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/facc4ed6-0a57-4ed4-86aa-5161e5c8c9ae") format("truetype");
+ font-style: normal;
+ font-weight: normal;
+}
+@font-face {
+ font-family: "Turnip RE";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/8ef62d05-58cc-44db-8064-5c54e0ca5178") format("truetype");
+ font-style: italic;
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Turnip RE";
+ src: url("http://wac.6a25.edgecastcdn.net/006A25/webtype/ff/1/0935a547-cc64-4323-b470-c8e87c5c6157") format("truetype");
+ font-style: italic;
+ font-weight: normal;
+}

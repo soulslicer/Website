@@ -1,0 +1,214 @@
+
+{ 
+	"timeline":
+	{
+		"headline":"Welcome to Raaj CanCode",
+		"type":"default",
+		"text": "<p>Hi, I'm Raaj, a student studying Computer Engineering in the Natioanl University of Singapore, who is currently interning in the Silicon Valley. This site is a list of my projects past and present.</p>",
+		"asset": {
+			"media":"/static/img/me2.png",
+			"credit":"",
+			"caption":""
+		},
+		"date": [
+    		{
+                "startDate":"2011,8,1",
+                "headline":"Joined NUS",
+                "text":"Joined NUS Computer Engineering to begin my computer science and electrical engineering journey!",
+                "asset":
+                {
+                    "media":"/story/nus.jpg",
+                    "credit":"",
+                    "caption":"National University of Singapore (NUS)"
+                }
+            },
+    		{
+                "startDate":"2012,3,1",
+                "headline":"C++ Cashier System",
+                "text":"Was my first major programming project. A full fledged cashier system written purely in C++.</br></br> <a href=\"https://github.com/soulslicer/Cashier-System\">Link</a>",
+                "asset":
+                {
+                    "media":"/story/c++.gif",
+                    "credit":"",
+                    "caption":"C++ based cashier system"
+                }
+            },
+			{
+                "startDate":"2012,5,1",
+                "headline":"NUS Navigator",
+                "text":"App that was built for my campus that provided Shuttle Bus Routing and navigation. Won 4th place in NUS iCreate Mobile App Development competition.</br></br> <a href=\"https://github.com/soulslicer/NUS-Navigator\">Link</a>",
+                "asset":
+                {
+                    "media":"https://www.youtube.com/watch?v=zuG0tcFzcOQ",
+                    "credit":"Yaadhav Raaj",
+                    "caption":"NUS Navigator 2012"
+                }
+            },
+			{
+                "startDate":"2012,8,1",
+                "headline":"UROP Tele-Rehabilitation",
+                "text":"Worked in the Undergraduate Research Opportunities Programme to develop a full fledged product for muscle movements and rehabilitation.</br></br> <a href=\"https://github.com/soulslicer/UROP--Telerehab\">Link</a>",
+                "asset":
+                {
+                    "media":"/story/rehab.png",
+                    "credit":"",
+                    "caption":"UROP Tele-Rehabilitation"
+                }
+            },
+            {
+                "startDate":"2012,11,1",
+                "headline":"ToDo++",
+                "text":"ToDo application written in C# for a software engineering module. Accepts natural language as an input and was voted one of the best apps in terms of UX and UI</br></br> <a href=\"https://github.com/soulslicer/ToDoPlusPlus\">Link</a>",
+                "asset":
+                {
+                    "media":"/story/todo.png",
+                    "credit":"",
+                    "caption":"NUS Navigator 2012"
+                }
+            },
+            {
+                "startDate":"2012,12,1",
+                "headline":"iOS controlled Robot",
+                "text":"An iOS application that interacts via WiFi to move and control a small robot</br></br> <a href=\"https://github.com/soulslicer/Wi-Fi-Car-Project\">Link</a>",
+                "asset":
+                {
+                    "media":"https://www.youtube.com/watch?v=lQIcHcv1s0U",
+                    "credit":"Yaadhav Raaj",
+                    "caption":"Wi-Fi Robot"
+                }
+            },
+            {
+                "startDate":"2013,1,1",
+                "headline":"x86 based lift controller",
+                "text":"An Intel 8088 based lift controller built in Assembly for CG2007</br></br> <a href=\"https://github.com/soulslicer/NUS-Hardware-Projects\">Link</a>",
+                "asset":
+                {
+                    "media":"/story/CG2007.png",
+                    "credit":"Yaadhav Raaj",
+                    "caption":"CG2007"
+                }
+            },
+            {
+                "startDate":"2013,2,1",
+                "headline":"RoomTraq",
+                "text":"Built for a hackathon organized by NUS hackers and Palantir. This hack counts the number of people in a room and can be viewed on an iOS App. Won 3rd Place.</br></br> <a href=\"https://github.com/soulslicer/RoomTraq\">Link</a>",
+                "asset":
+                {
+                    "media":"/story/roomtraq.png",
+                    "credit":"Yaadhav Raaj",
+                    "caption":"RoomTraq"
+                }
+            },
+            {
+                "startDate":"2013,3,1",
+                "headline":"Mixtron 3000",
+                "text":"A mixer/transmitter audio circuit built with op-amps for EE2031</br></br> <a href=\"https://github.com/soulslicer/NUS-Hardware-Projects\">Link</a>",
+                "asset":
+                {
+                    "media":"/story/EE2031.png",
+                    "credit":"Yaadhav Raaj",
+                    "caption":"EE2031"
+                }
+            },
+            {
+                "startDate":"2013,4,1",
+                "headline":"Mains control",
+                "text":"So i got sick of controlling the fan and AC in my room, and i built an iOS controlled power box. Home automation indeed.</br></br> <a href=\"https://github.com/RavenXce/PowerWiFly_old\">Link</a>",
+                "asset":
+                {
+                    "media":"/story/power.png",
+                    "credit":"Yaadhav Raaj",
+                    "caption":"Mains control"
+                }
+            },
+            {
+                "startDate":"2013,5,1",
+                "headline":"Booking App Prototype",
+                "text":"Interned a startup called Daniel Wireless which specialized in mobile app development. Helped to build one of their flagship products which was a Booking Application that could be extended onto any system</br></br> <a href=\"http://www.youtube.com/watch?v=xvs8itW4u0U\">Link</a>",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=xvs8itW4u0U",
+                    "credit":"Yaadhav Raaj",
+                    "caption":"Booking App"
+                }
+            },
+            {
+                "startDate":"2013,6,1",
+                "headline":"WiRED",
+                "text":"A full fledged home automation solution that records IR signal and saves them to the cloud. The device can then fire these IR signals out and can be controlled with an app. It can also be configured wirelessly.</br></br> <a href=\"https://github.com/soulslicer/WiRED\">Link</a>",
+                "asset":
+                {
+                    "media":"/story/wired.jpg",
+                    "credit":"Yaadhav Raaj",
+                    "caption":"WiRED"
+                }
+            },
+            {
+                "startDate":"2013,7,1",
+                "headline":"Start internship at Lark",
+                "text":"Start my internship in the Silicon Valley at Lark Technologies</br></br> <a href=\"https://www.lark.com/\">Link</a>",
+                "asset":
+                {
+                    "media":"/story/lark.jpg",
+                    "credit":"Lark Technologies",
+                    "caption":"Lark Technologies"
+                }
+            },
+            {
+                "startDate":"2013,7,1",
+                "headline":"STM32F4",
+                "text":"So I started messing around with the STM32F4 board. We use this MCU in our product here.</br></br> <a href=\"https://www.lark.com/\">Link</a>",
+                "asset":
+                {
+                    "media":"/story/stm32f4.jpg",
+                    "credit":"Lark Technologies",
+                    "caption":"Lark Technologies"
+                }
+            },
+            {
+                "startDate":"2013,9,1",
+                "headline":"Preamble",
+                "text":"Took part in the Launch Hackathon with a couple of people and this was our creation. Essentially a Business Card for the Web. Was involved in backend side code in this 48 hour hackathon.</br></br> <a href=\"http://hackathon.launch.co/project/launch-hackathon-2013-mortifys-project\">Link</a>",
+                "asset":
+                {
+                    "media":"/story/preamble.png",
+                    "credit":"Yaadhav Raaj",
+                    "caption":"Launch Hackathon"
+                }
+            },
+            {
+                "startDate":"2013,10,1",
+                "headline":"Python FFT Visualizer",
+                "text":"A simple FFT Visualizer I wrote in python with matplotlib and scipy. Feed in a bunch of dates and get a time and fft plot.</br></br> <a href=\"https://github.com/soulslicer/Python-FFT-Visualizer\">Link</a>",
+                "asset":
+                {
+                    "media":"/story/fft.png",
+                    "credit":"Yaadhav Raaj",
+                    "caption":"Python FFT Visualizer"
+                }
+            },
+            {
+                "startDate":"2013,10,1",
+                "headline":"CBR Circuit",
+                "text":"Circuit that I designed. Charges a Lithium Ion battery, and outputs both 5 and 3.3 volts</br></br> <a href=\"https://github.com/soulslicer/PCB-Power\">Link</a>",
+                "asset":
+                {
+                    "media":"/story/circuit.jpg",
+                    "credit":"Yaadhav Raaj",
+                    "caption":"CBR Circuit"
+                }
+            },
+            {
+                "startDate":"2013,11,1",
+                "headline":"Qeo Home Challenge",
+                "text":"A one month long hackathon where you have to integrate the Qeo API with a potential use case. Using Raspberry Pi's and a bunch of IR sensors, we built a room detection system and demonstrated it's business model and use case.</br></br> <a href=\"https://vimeo.com/81753674\">Link</a>",
+                "asset":
+                {
+                    "media":"https://vimeo.com/81753674",
+                    "credit":"Yaadhav Raaj",
+                    "caption":"Qeo Home Challenge"
+                }
+            }
+        ]
+    }
+}

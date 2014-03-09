@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Raaj CanCode</title>
+    <meta charset="utf-8">
+    <meta name="description" content="TimelineJS example">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <!-- Style-->
+    <style>
+      html, body {
+       height:100%;
+       padding: 0px;
+       margin: 0px;
+      }
+    </style>
+    <link rel="stylesheet" href="static/css/blueline.min.css">
+    <link href="static/css/textformat.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="static/css/site.css">
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="static/js/blueline.min.js"></script>
+    <script src="static/js/main.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script src="static/js/bootbox.js"></script>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML elements--><!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+
+      <!-- BEGIN Timeline Embed -->
+      <div class="navbar navbar-fixed-top">
+        <div class="navbar-inner">
+          <div class="container-fluid">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+            <a href="index.html#" class="brand">Raaj CanCode</a>
+            <div class="nav-collapse navbar-responsive-collapse collapse" style="height: 0px;">
+              <ul class="nav">
+                <li><a href="index.html#overview" data-scroll="true">Timeline</a></li>
+                <li><a href="index.html#about" data-scroll="true">About</a></li>
+                <li><a href="index.html#contact" data-scroll="true">Contact</a></li>
+              </ul>
+            </div><!-- /.nav-collapse -->
+          </div>
+        </div><!-- /navbar-inner -->
+      </div>
+      <!-- END Timeline Embed-->  
+
+      <!-- BEGIN Timeline Embed -->
+      <header id="overview" class="hero-unit">
+        <div class="row-fluid">
+          <hgroup class="span12">
+            <h1 class="logo-mark xl"><img class="img-rounded" src="static/img/i3.png" alt="Publish to Web"></h1>
+            <h2 class="intro">I am a Computer Engineering student at NUS, who loves to tinker with hardware and software</h2>
+            <p>
+              <a href="index.html#demo" class="btn btn-large" data-scroll="true">Timeline</a>
+              <a href="index.html#demo" class="btn btn-large" data-scroll="true" onclick="goToPage(18);">Latest</a>
+              <a href="index.html#about" class="btn btn-large" data-scroll="true">About</a>
+            </p>
+          </hgroup>
+        </div>
+      </header>
+      <!-- BEGIN Timeline Embed -->
+
+      <!-- BEGIN Timeline Embed -->
+      <section id="demo">
+        <div id="timeline-embed">
+          <div id="timeline"></div>
+        </div>
+      </section>
+      <script type="text/javascript">
+        // var timeline_config = {
+        //  width: "100%",
+        //  height:  "100%",
+        //  debug: false,
+        //  source:  'welcome.json',
+        //  font:  'NewsCycle-Merriweather',
+        //  start_at_end: false
+        // };
+      </script>
+      <script type="text/javascript" src="/compiled/js/storyjs-embed.js"></script>
+      <!-- END Timeline Embed-->  
+
+      <!-- Modal -->
+      <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      </div>
+      <!-- /.modal -->
+
+      <section id="about" class="container">
+  <h2>Raaj CanCode</h2>
+  <div class="row">
+    <div class="span6">
+      <p>My name is Raaj, and I am a Computer Engineering student at the National University of Singapore. I am currently interning at a tech startup based in Silicon Valley as part of a year long internship program. My
+      passion has always been creation and innovation, and I do this through the power of code. Whether it is
+      hardware or software, mobile or desktop, web based or native; anything that I have had a burning desire to see in front of me will eventually be built with the knowledge I have. Simply because coding and creation is my passion.
+      </p>
+      <h4>Timeline</h4>
+      <p>I decided to build this website to be a timeline or a historical map of everything that I have worked on and am currently working on, so feel free to browse my array of projects.</p>
+
+    </div>
+    <div class="span6">
+      <div class="well">
+      <h4>Feed</h4>
+      <p>No posts eyet</p>
+      <h4>Stay connected with me</h4>
+      <p>
+        <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=raajCC&show_count=false" style="width:220px; height:20px;"></iframe>
+        </br>
+        <iframe src="http://ghbtns.com/github-btn.html?user=soulslicer&type=follow"
+        allowtransparency="true" frameborder="0" scrolling="0" width="132" height="20"></iframe>
+      </p>
+    </div>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="container">
+<div align="center">
+<a href="https://twitter.com/raajCC" target="_blank" align="left"><img src="http://www.niftybuttons.com/black/twitter.png"></a><a href="http://sg.linkedin.com/in/yaadhavraaj" target="_blank" align="left"><img src="http://www.niftybuttons.com/black/linkedin.png"></a><a href="https://github.com/soulslicer/" target="_blank" align="left" ><img src="http://www.niftybuttons.com/black/flickr.png"></a>
+</section>
+
+</br></br></br>
+
+  </body>
+</html>
